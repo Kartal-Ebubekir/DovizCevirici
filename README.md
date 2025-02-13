@@ -9,7 +9,7 @@
 
 ---
 
-## 👌 Gereksinimler
+## Gereksinimler
 Bu projeyi çalıştırmak için aşağıdaki Python kütüphaneleri gereklidir:
 
 ```sh
